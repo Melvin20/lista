@@ -1,195 +1,166 @@
 ﻿#EXTM3U
-
-
-
-#EXTINF:-1 FoXPremium
-logo="http://www.jazarah.net/directory/wp-content/logos/Media/foxseries.jpg" group-
-#EXTINF:-1 tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="CINE", Fox Premium Series
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/4744.m3u8title="CINE", A&E
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13988.m3u8
-
-#EXTINF:-1 Dragon Ball Super
-logo="https://puu.sh/xa5W8/e0f4f580f8.png" group-title="Infantiles", Dragon Ball Super 24/7
-http://aleiptv.mine.nu:8000/live/aaron/1234/14079.m3u8
- 
-#EXTINF:Los Simpsonlogo="http://puu.sh/s2xL8/b732aa9e6c.png" group-title="Infantiles", Los Simpson 24/7
-http://aleiptv.mine.nu:8000/live/aaron/1234/14088.m3u8
-
-
-#EXTINF:-1, CINEMAX
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
- 
-#EXTINF:-1, TNT HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE05.m3u8
- 
-#EXTINF:-1, EDGE
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE03.m3u8
- 
-#EXTINF:-1, AMC
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE03.m3u8
- 
-#EXTINF:-1, SPACE HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE05.m3u8
- 
-#EXTINF:-1, STUDIO
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE03.m3u8
-
-#EXTINF:-1, CINECANAL
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE03.m3u8
- 
-#EXTINF:-1, TNT
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
- 
-#EXTINF:-1, GOLDEN PLUS
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE03.m3u8
- 
-#EXTINF:-1, FXM
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE03.m3u8
- 
-#EXTINF:-1, DPELICULA PLUS
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE03.m3u8
- 
-#EXTINF:-1, AMC
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE03.m3u8
- 
-#EXTINF:-1, SPACE
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE03.m3u8
-
-#EXTINF:-1, FOX SERIES
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
- 
-#EXTINF:-1, FOX ACTION
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
- 
-#EXTINF:-1, FOX MOVIES
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
- 
-#EXTINF:-1, FOX CINEMA
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8
- 
-#EXTINF:-1, FOX CLSSICS
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8
-
-#EXTINF:-1, HISTORY
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
- 
-#EXTINF:-1, NATGEO WILD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
- 
-#EXTINF:-1, DISCOBERY WORLD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
- 
-#EXTINF:-1, DISCOBERY CHANNEL
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
- 
-#EXTINF:-1, ANIMAL PLANET
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
- 
-#EXTINF:-1, H&H
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
- 
-#EXTINF:-1, NAT GEO
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8
- 
-#EXTINF:-1, LIFETIME
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
- 
-#EXTINF:-1, SCI
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
- 
-#EXTINF:-1, DISCOBERY CIVILIZATION
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
- 
-#EXTINF:-1, TLC
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
- 
-
-#EXTINF:-1, FXM
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL332/PROFILE03.m3u8
-
-#EXTINF:-1, NICJ JR.
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8
- 
-#EXTINF:-1, DISNEY CHANNEL
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
- 
-#EXTINF:-1, NICKTOONS
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE03.m3u8
- 
-#EXTINF:-1, NICK
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8
- 
-#EXTINF:-1, NICK HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE05.m3u8
- 
-#EXTINF:-1, CARTOON NETWORK
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8
- 
-#EXTINF:-1, XD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
- 
-#EXTINF:-1, BOOMERANG
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8
-
-
-#EXTINF:-1, FOX LIFE
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE03.m3u8
- 
-#EXTINF:-1, DISTRITO COMEDIA
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
- 
-#EXTINF:-1, DISTRITO COMEDIA HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE05.m3u8
-
-#EXTINF:-1, TNT SERIES
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
-
-#EXTINF:-1, FOX CHANNEL
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE03.m3u8
-
-#EXTINF:-1 tvg-Fox
- 
-Cinemalogo="http://puu.sh/mb4wQ/6cd02167d4.png"
- 
-group-title="CINE", Fox Cinema
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
- 
- 
-#EXTINF:-1, FOX
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
- 
-#EXTINF:-1, SONY
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
- 
-#EXTINF:-1, WARNER
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
- 
-#EXTINF:-1, UNIVERSAL
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
- 
-#EXTINF:-1, FX
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
- 
-#EXTINF:-1, A&E
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
- 
-
-#EXTINF:0,Miami TV
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
- 
-#EXTINF:-1, AXN
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8
- 
-#EXTINF:-1, TRU TV
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
- 
-#EXTINF:-1, COMEDY CENTRAL
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8
- 
-
-#EXTINF:-1,ECUADOR==Gamavision
-http://goldplayiptv.com:8000/live/usuario19/1234/44.ts
-
+#EXTINF:-1,Cartoon Network
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14246.m3u8
+#EXTINF:-1,Cartoon Network sur
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14245.m3u8
+#EXTINF:-1,Discovery KIDS
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14244.m3u8
+#EXTINF:-1,Discovery KIDS sur
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14243.m3u8
+#EXTINF:-1,Disney
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14242.m3u8
+#EXTINF:-1,Disney Junior
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14241.m3u8
+#EXTINF:-1,Disney sur
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14240.m3u8
+#EXTINF:-1,Disney Junior sur
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14239.m3u8
+#EXTINF:-1,Disney XD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14238.m3u8
+#EXTINF:-1,Disney XD sur
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14237.m3u8
+#EXTINF:-1,NAT GEO KIDS
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14236.m3u8
+#EXTINF:-1,Nick 2
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14235.m3u8
+#EXTINF:-1,Nick Jr
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14234.m3u8
+#EXTINF:-1,Nickelodeon
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14233.m3u8
+#EXTINF:-1,Nicktoons
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14232.m3u8
+#EXTINF:-1,TIIN
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14231.m3u8
+#EXTINF:-1,Tooncast
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14230.m3u8
+#EXTINF:-1,A&E FULL HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11258.m3u8
+#EXTINF:-1,A&E Full HD.
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14446.m3u8
+#EXTINF:-1,Universal Channel
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14281.m3u8
+#EXTINF:-1,Universal Channel HQ
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11315.m3u8
+#EXTINF:-1,Studio Universal HQ
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11338.m3u8
+#EXTINF:-1,A&E HQ
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11296.m3u8
+#EXTINF:-1,A3 Series HQ
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11278.m3u8
+#EXTINF:-1,AMC HQ
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11348.m3u8
+#EXTINF:-1,AXN HQ
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11320.m3u8
+#EXTINF:-1,AZ Cinema HQ
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11285.m3u8
+#EXTINF:-1,Cinecanal HQ
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11309.m3u8
+#EXTINF:-1,Cinemax HQ
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11347.m3u8
+#EXTINF:-1,Comedy Central HQ
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11283.m3u8
+#EXTINF:-1,De Pelicula HQ
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11310.m3u8
+#EXTINF:-1,Distrito Comedia HQ
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11307.m3u8
+#EXTINF:-1,E! HQ
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11319.m3u8
+EXTINF:-1,Space HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13990.m3u8
+#EXTINF:-1,Sundance HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13993.m3u8
+#EXTINF:-1,TNT HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13964.m3u8
+#EXTINF:-1,TNT Series HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13963.m3u8
+#EXTINF:-1,Max Prime HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14019.m3u8
+#EXTINF:-1,HBO HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/4730.m3u8
+#EXTINF:-1,HBO HD.
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14033.m3u8
+#EXTINF:-1,HBO 2 HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/4732.m3u8
+#EXTINF:-1,HBO 2 HD.
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14035.m3u8
+#EXTINF:-1,HBO Family HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/4731.m3u8
+#EXTINF:-1,HBO Family HD.
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14034.m3u8
+#EXTINF:-1,HBO Plus HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/4729.m3u8
+#EXTINF:-1,HBO Plus HD.
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14032.m3u8
+#EXTINF:-1,Fox HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14029.m3u8
+#EXTINF:-1,Fox HD.
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13980.m3u8
+#EXTINF:-1,Fox México HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13982.m3u8
+#EXTINF:-1,Fox Action HD.
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14023.m3u8
+#EXTINF:-1,Fox Cinema HD.
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14022.m3u8
+#EXTINF:-1,Fox Classics HD.
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14021.m3u8
+#EXTINF:-1,Fox Comedy HD.
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14020.m3u8
+#EXTINF:-1,Fox Life HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13973.m3u8
+#EXTINF:-1,Fox Family HD.
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14028.m3u8
+#EXTINF:-1,Fox Movies HD.
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14027.m3u8
+#EXTINF:-1,Fox Premium Action HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/4746.m3u8
+#EXTINF:-1,Fox Premium Comedy HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/4100.m3u8
+#EXTINF:-1,Fox Premium Family HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/4099.m3u8
+#EXTINF:-1,Fox Premium Movies HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/4745.m3u8
+#EXTINF:-1,Fox Premium Series HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/4744.m3u8
+#EXTINF:-1,FX HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14001.m3u8
+#EXTINF:-1,FX México HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13981.m3u8
+#EXTINF:-1,FXM México HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13977.m3u8
+#EXTINF:-1,FXX HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11107.m3u8
+#EXTINF:-1,FYI HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11106.m3u8
+#EXTINF:-1,Golden HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13997.m3u8
+#EXTINF:-1,Golden Premier HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13996.m3u8
+#EXTINF:-1,Universal Channel FULL HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11181.m3u8
+#EXTINF:-1,Universal Channel Full HD.
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14419.m3u8
+#EXTINF:-1,Warner Channel FULL HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11179.m3u8
+#EXTINF:-1,Warner Channel Full HD.
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14418.m3u8
+#EXTINF:-1,AE Mundo HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13988.m3u8
+#EXTINF:-1,AXN HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14003.m3u8
+#EXTINF:-1,Cine Sony HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11122.m3u8
+#EXTINF:-1,Cinecanal HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13978.m3u8
+#EXTINF:-1,Comedy Central HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14002.m3u8
+#EXTINF:-1,Tnt FULL HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11188.m3u8
+#EXTINF:-1,TNT Full HD.
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14422.m3u8
+#EXTINF:-1,Tnt Series FULL HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11187.m3u8
+#EXTINF:-1,TNT Series Full HD.
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14421.m3u8
 #EXTINF:-1 tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/ecuavisa.jpg" group-title="ECUADOR",Ecuavisa HD
 http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
 
